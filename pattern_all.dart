@@ -127,9 +127,9 @@ n = int.parse(stdin.readLineSync()!);
 s = n-1;
   for (int i = n; i >= 1; i--) {
     for (int j = 1; j <= i; j++) {
-      stdout.write("* "); // stars in one line
+      stdout.write("*");
     }
-    print(""); // new line for next row
+    print("");
   }
 
 }
