@@ -15,3 +15,13 @@ void main() {
       break;
   }
 }
+
+/*
+✅ সংক্ষেপে enum ki jonno dorkar ta holo :
+
+enum = fixed set of values রাখার জন্য।
+
+কোড safe এবং readable হয়।
+
+সাধারণত status, type, options represent করতে ব্যবহৃত হয়।
+*/
